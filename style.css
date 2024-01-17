@@ -126,7 +126,7 @@ main img.pequena{
     max-width: 350px;
 }
 div.video{
-    background-color: var(--cor5);
+    background-color: var(--cor4);
     margin: 0 -20px 30px -20px;
     padding: 20px;
     padding-bottom: 56.9%;
